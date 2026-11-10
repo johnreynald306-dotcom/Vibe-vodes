@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+  background-color: pink;
+  border: solid orange;
+  border-radius: 10px;
+}
+#main{
+  background-color: lightcyan ;
+  border: solid lightgoldenrodyellow;
+  border-radius: 20px;
+  
+}
+img{
+  border: solid lightsalmon 10px;
+  border-radius: 50px 0 50px 50px;
+}
+body{
+  text-align: center;
+  margin: auto;
+  background-color: lightgreen;
+}
